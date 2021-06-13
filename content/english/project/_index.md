@@ -1,10 +1,10 @@
 ---
 bg_image: images/feature-bg.jpg
-description: this is meta description
+description: sdlkfjslkjflksd
 draft: false
 menu:
   main:
     name: Project
     weight: 3
-title: Our Project
+title: My Project
 ---
