@@ -1,0 +1,66 @@
+baseURL: https://example.com
+languageCode: en-us
+DefaultContentLanguage: en
+title: DocPort Documentation
+theme: hugo-theme-docport
+pygmentsCodeFences: yes
+pygmentsStyle: monokai
+defaultContentLanguageInSubdir: no
+enableMissingTranslationPlaceholders: no
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - category
+  - RSS
+params:
+  color_main: '#737373'
+  disableNavChevron: no
+  disableSearch: no
+  editWithNetlifyCMSURL: admin/#/collections/pages/entries/
+  enableGitInfo: yes
+  menushortcutsnewtab: no
+  ordersectionsby: weight
+mediaTypes:
+  application/netlifyconfig:
+    suffixes: yml
+outputFormats:
+  netlifyyaml:
+    isHTML: no
+    isPlainText: yes
+    mediaType: application/netlifyconfig
+    notAlternative: yes
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  highlight:
+    codeFences: yes
+    guessSyntax: yes
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: no
+    lineNumbersInTable: yes
+    noClasses: yes
+    style: monokai
+    tabWidth: 2
+menu:
+  shortcuts:
+    - identifier: ds
+      name: Github
+      url: https://github.com/vjeantet/hugo-theme-docport
+      weight: 10
+    - name: Download
+      url: https://github.com/vjeantet/hugo-theme-docport/archive/master.zip
+      weight: 11
+    - identifier: hugodoc
+      name: Hugo Documentation
+      url: https://gohugo.io/
+      weight: 20
+    - name: Credits
+      url: /docport-theme/credits/
+      weight: 30
