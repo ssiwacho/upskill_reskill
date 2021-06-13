@@ -52,7 +52,7 @@ funfacts:
     designation: ตำแหน่ง XXXX
     image: images/clients/soison.jpg
     name: ผศ.ดร.สร้อยสน สกลรักษ์
-  - content: ตั้งแต่ไปผ่ากระเพาะมา ผมก็ได้อยากอาหารใด ๆ อีกเลยครับ
+  - content: ตั้งแต่ไปผ่ากระเพาะมา ผมก็ไม่อยากอาหารใด ๆ อีกเลยครับ
     designation: ตัวทดลองเบอร์ 001
     image: images/clients/KSK.jpg
     name: ผศ.ดร. กนิษฐ์ ศรีเคลือบ	
