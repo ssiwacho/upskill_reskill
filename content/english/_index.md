@@ -1,4 +1,5 @@
 ---
+
 about:
   content: โครงการนี้ได้พัฒนาหลักสูตรระยะสั้นโดยออกแบบชุด “โมดูล” (module) เพื่อสร้างทักษะใหม่ (reskill) และยกระดับทักษะที่มีอยู่เดิม (upskill) ของบุคลากรทางการศึกษาทุกประเภท เป้าหมายของโครงการมุ่งพัฒนาทักษะการทำงานของบุคลากรทางการศึกษาที่เป็นกลุ่มเป้าหมายในการอบรม ผลลัพธ์ของโครงการจะทำให้ได้บัณฑิตพันธุ์ใหม่หรือครูรุ่นใหม่ที่สามารถออกแบบชั้นเรียนโดยใช้เทคโนโลยีหรือนวัตกรรมทางการศึกษาได้อย่างมีประสิทธิผล การสร้างชั้นเรียนนวัตกรรมจะส่งผลให้ผู้เรียนมีคุณลักษณะที่พึงประสงค์ตามมาตรฐานการศึกษาของชาติที่กำหนดในรูปของ DOE  ผู้เรียนที่ผ่านการเรียนรู้จาก ชั้นเรียนนวัตกรรมจะมีทักษะความสามารถที่สอดคล้องกับความต้องการของยุคสมัยใหม่และเหมาะกับแนวทางการพัฒนาประเทศต่อไป
   description: โลกสมัยใหม่ในยุคดิจิทัลทำให้การจัดการเรียนการสอนจะต้องมีการปรับตัวอย่างมากมาย เนื่องจากความก้าวหน้าทางเทคโนโลยีคอมพิวเตอร์ หรือเทคโนโลยีการสื่อสารเข้ามามีผลกระทบต่อการเรียนรู้ของผู้เรียนในยุคนี้ ดังนั้น ครูจำเป็นต้องปรับเปลี่ยนแนวคิดและวิธีการทำงานในการจัดการเรียนการสอนที่ต่างจากอดีต
@@ -26,23 +27,22 @@ cta:
   enable: true
   title: สนใจเข้าร่วมหลักสูตรแล้วใช่มั้ย
 funfacts:
-  description: '''Far far away, behind the word mountains, far from the countries
-    Vokalia and Consonantia, <br> there live the blind texts. Separated they live
-    in Bookmarksgrove right at the coast of the Semantics'''
+  description: ผลลัพธ์ปลายทางของหลักสูตรประกอบด้วยทักษะความสามารถ 3 ประการ ได้แก่ ทักษะการคิดออกแบบ ทักษะการโค้ชชิ่ง และทักษะการออกแบบชั้นเรียนนวัตกรรม </br> โครงสร้างของหลักสูตรเพื่อเสริมสร้างทักษะทั้งสามประการนี้จะผสมผสานบูรณาการผ่านโมดูลที่ออกแบบซึ่งเน้นทั้งภาคทฤษฎีและปฏิบัติในสถานศึกษา
+
   enable: true
   funfact_item:
-  - count: "99"
-    icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-  - count: "45"
-    icon: ion-ios-glasses-outline
-    name: Article Written
-  - count: "125"
-    icon: ion-ios-compose-outline
-    name: Projects Completed
-  - count: "200"
+  - count: "6"
+    icon: ion-ios-albums-outline
+    name: จำนวนโมดูล
+  - count: "315"
     icon: ion-ios-timer-outline
-    name: Combined Projects
+    name: จำนวนชั่วโมงเรียนทั้งหมด
+  - count: "45"
+    icon: ion-ios-book-outline
+    name: จำนวนชั่วโมงภาคทฤษฎี
+  - count: "270"
+    icon: ion-ios-body-outline
+    name: จำนวนชั่วโมงภาคปฏิบัติ
   testimonial_slider:
   - content: ตั้งแต่ไปผ่ากระเพาะมา ก็ไม่อยากอาหารใด ๆ อีกเลย
     designation: CEO-Themefisher
@@ -60,7 +60,7 @@ funfacts:
     designation: CEO-Themefisher
     image: images/clients/avater-3.jpg
     name: Rose Rio
-  title: Fun Facts About Us
+  title: เกี่ยวกับหลักสูตร
 menu:
   main:
     name: Home
@@ -68,7 +68,7 @@ menu:
 portfolio:
   bg_image: images/objective.jpg
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
   content: "โครงการนี้มีวัตถุประสงค์ปลายทางเพื่อพัฒนาหลักสูตร “การคิดออกแบบ การโค้ชชิ่ง และการออกแบบชั้นเรียนนวัตกรรม” เพื่อสร้างและยกระดับทักษะการทำงานของบุคลากรทางการศึกษาเพื่อพัฒนาห้องเรียนแบบออนไลน์และออฟไลน์ในโรงเรียน โดยมีวัตถุประสงค์เฉพาะดังต่อไปนี้ </br>

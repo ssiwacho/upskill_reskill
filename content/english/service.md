@@ -43,43 +43,24 @@ menu:
     parent: More
     weight: 1
 service:
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: ผลลัพธ์ปลายทางของหลักสูตรประกอบด้วยทักษะความสามารถ 3 ประการ ได้แก่ ทักษะการคิดออกแบบ ทักษะการโค้ชชิ่ง และทักษะการออกแบบชั้นเรียนนวัตกรรม </br> โครงสร้างของหลักสูตรเพื่อเสริมสร้างทักษะทั้งสามประการนี้จะผสมผสานบูรณาการผ่านโมดูลที่ออกแบบซึ่งเน้นทั้งภาคทฤษฎีและปฏิบัติในสถานศึกษา
+
   enable: true
   service_item:
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-coffee
-    name: Branding
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-compass
-    name: Web Design
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-image
-    name: App Design
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-bug
-    name: Start Up
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-headphone
-    name: Logo Design
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-leaf
-    name: Development
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-planet
-    name: Brand Identity
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  
+  - content: เป็นแนวคิดสากลที่มีหลักฐานสนับสนุนว่าจะช่วยพัฒนาความคิดสร้างสรรค์ของผู้เรียน ทำให้ผู้เรียนมีความสุข เป็นชั้นเรียนที่เปิดกว้างทางความคิด สร้างแรงบันดาลใจ </br> และความเชื่อมั่นในการเรียนของผู้เรียน </br> ผลการสร้างชั้นเรียนนวัตกรรมจะนำไปสู่การพัฒนาผู้เรียนให้มีคุณลักษณะที่กำหนดในมาตรฐานการศึกษาของชาติ พ.ศ. 2561 ได้แก่ ความเป็นบุคคลเรียนรู้ ผู้ร่วมสร้างสรรค์นวัตกรรม และพลเมืองที่เข้มแข็ง
     icon: ion-earth
-    name: Brand Identity
-  title: Our Services
+    name: Innovative Classroom
+     
+  - content: เป็นแนวคิดสมัยใหม่ที่ยอมรับกันในปัจจุบันในการสร้างความคิดใหม่ในการแก้ปัญหาซับซ้อน การคิดออกแบบ (design thinking) เป็นกรอบคิด (mindset) และสมรรถนะ (competency) ที่อาศัยการทำงานเป็นทีมผ่านการระดมความคิดจากบุคคลที่มีประสบการณ์หรือมุมมองที่หลากหลายมาช่วยกันคิดค้นพัฒนาวิธีการปัญหาที่ซับซ้อนและแก้ไขได้ยาก
+    icon: ion-lightbulb
+    name: Design Thinking
+  - content: เป็นแนวคิดที่นักวิชาการทางการศึกษาได้นำมาใช้พัฒนาครูในประเทศไทยนับเป็นเวลากว่าสิบปี โครงการนี้มีความเชื่อว่าบุคลากรทางการศึกษาที่เข้าร่วมมีหลายกลุ่ม แต่ละกลุ่มต่างมีศักยภาพที่มีจุดเด่นต่างกัน สามารถแลกเปลี่ยนเรียนรู้ระหว่างกันได้ การยกระดับทักษะการทำงานใหม่ให้กับบุคลากรทางการศึกษาสามารถทำได้ผ่านกระบวนการโคชชิ่ง เป้าหมายสำคัญของโครงการนี้จึงมุ่งพัฒนา ทักษะโค้ชชิ่ง แก่บุคลากรทางการศึกษา เพื่อให้บุคคลเหล่านี้สามารถทำหน้าที่โค้ชได้อย่างมีประสิทธิผล...
+    icon: ion-chatbubbles
+    name: Coaching
+  - content: โครงการนี้ได้พัฒนาชุดโมดูล เพื่อสร้างทักษะใหม่ (reskill) และยกระดับทักษะที่มีอยู่ (upskill) ของบุคลากรทางการศึกษาทุกประเภท ผลลัพธ์ของโครงการจะทำให้ได้บัณฑิตพันธุ์ใหม่หรือครูรุ่นใหม่ที่สามารถออกแบบชั้นเรียนโดยใช้เทคโนโลยีหรือนวัตกรรมทางการศึกษาได้อย่างมีประสิทธิผล การสร้างชั้นเรียนนวัติกรรมจะส่งผลให้ผู้เรียนมีคุณลักษณะที่พึงประสงค์ตามมาตรฐานการศึกษาของชาติที่กำหนด 
+    icon: ion-arrow-up-a
+    name: UpSkill & ReSkill
+  title: Our Project
 title: Service
 ---
