@@ -16,7 +16,7 @@ banner:
     link: https://forms.gle/LESQ5Tf21yhrezEW8
   content: หลักสูตร "การคิดออกแบบ โค้ชชิ่ง และการออกแบบชั้นเรียนนวัตกรรม" <br> เพื่อสร้างและยกระดับทักษะการทำงานของบุคลากรทางการศึกษาสำหรับการเรียนรู้ออนไลน์และออฟไลน์
   enable: true
-  title: Educator Online Learning Platform
+  title: Online Learning  platform for Educators
 cta:
   bg_image: images/call-to-action-bg.jpg
   button:
@@ -44,27 +44,24 @@ funfacts:
     icon: ion-ios-body-outline
     name: จำนวนชั่วโมงภาคปฏิบัติ
   testimonial_slider:
-  - content: ตั้งแต่ไปผ่ากระเพาะมา ก็ไม่อยากอาหารใด ๆ อีกเลย
-    designation: CEO-Themefisher
-    image: images/clients/kanit.jpg
-    name: Raymond Roy
-  - content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-    designation: CEO-Themefisher
-    image: images/clients/avater-1.jpg
-    name: Randi Renin
-  - content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-    designation: CEO-Themefisher
-    image: images/clients/avater-3.jpg
-    name: Rose Rio
-  title: เกี่ยวกับหลักสูตร
+  - content: XXX sdkfjlsdkfjlsdkjflsdkjflkdsjflksdjflksjdlfkdjslfkjdsf
+    designation: ตำแหน่ง XXX
+    image: images/clients/suwimon.jpg
+    name: ศ.ดร. สุวิมล ว่องวาณิช
+  - content: ZZXXCVvfs;ldfkv;slfm b;slfbm;fdlm ;dlfmb;ldfmb;lfdmb;
+    designation: ตำแหน่ง XXXX
+    image: images/clients/soison.jpg
+    name: ผศ.ดร.สร้อยสน สกลรักษ์
+  - content: ตั้งแต่ไปผ่ากระเพาะมา ผมก็ได้อยากอาหารใด ๆ อีกเลยครับ
+    designation: ตัวทดลองเบอร์ 001
+    image: images/clients/KSK.jpg
+    name: ผศ.ดร. กนิษฐ์ ศรีเคลือบ	
+  title: หลักสูตร
 menu:
   main:
     name: Home
     weight: 1
+
 portfolio:
   bg_image: images/objective.jpg
   button:

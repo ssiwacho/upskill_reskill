@@ -1,5 +1,5 @@
 baseURL: http://examplesite.org
-title: Educator Online Learning Platform
+title: Online Learning  platform for Educators
 theme: airspace-hugo
 paginate: '4'
 summaryLength: '30'
@@ -13,7 +13,7 @@ markup:
     renderer:
       unsafe: yes
   tableOfContents:
-    endLevel: 6
+    endLevel: 1
     ordered: no
     startLevel: 2
 params:
@@ -27,7 +27,6 @@ params:
       success_image: images/Asset1.svg
       use_netlify: yes
     location: "**คณะครุศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย**  \n 254 ถนนพญาไท  \n แขวงวังใหม่ เขตปทุมวัน  \n กรุงเทพฯ 10330 \n"
-    #phone: 0124857985320
   cookies:
     enable: no
     expire_days: 2
@@ -71,9 +70,12 @@ params:
     enable: yes
     preloader: ''
   social:
-    - icon: ion-social-facebook-outline
+    - icon: ion-social-facebook
       link: 'https://www.facebook.com/Upskill-Reskill-Edu-Chula-108438281469923/'
-    - icon: ion-laptop-outline
+    - icon: ion-chatbubble-working
+      link: 'https://www.facebook.com/messages/t/108438281469923'
+    - icon: ion-university
+      link: 'www.kruroo.com'
   widgets:
     sidebar:
       - recent_posts
@@ -88,26 +90,20 @@ languages:
     languageName: English
     menu:
       footer:
-        - URL: about
-          name: About
-          weight: 1
         - URL: project
-          name: Project
+          name: รายละเอียดหลักสูตร
           weight: 2
         - URL: service
-          name: Service
+          name: ความรู้เผยแพร่
           weight: 3
-        - URL: pricing
-          name: Pricing
-          weight: 4
         - URL: faq
           name: FAQ
           weight: 5
         - URL: contact
-          name: Contact
+          name: ติดต่อเรา
           weight: 6
       main:
-        - hasChildren: yes
+        - hasChildren: no
           name: More
           weight: 5
     weight: 1

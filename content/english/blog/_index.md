@@ -5,7 +5,7 @@ draft: false
 menu:
   main:
     identifier: blog
-    name: Blog
-    weight: 4
+    name: หลักสูตร
+    weight: 3
 title: Latest News
 ---

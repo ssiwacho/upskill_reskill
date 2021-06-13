@@ -4,7 +4,8 @@ description: this is meta description
 draft: false
 menu:
   main:
-    name: Project
-    weight: 3
-title: Our Project
+    name: ความรู้เผยแพร่
+    parent: More
+    weight: 2
+title: ความรู้เผยแพร่
 ---

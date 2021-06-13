@@ -1,51 +1,41 @@
 ---
 about:
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
-  enable: true
-  image: images/company/company-group-pic.jpg
-  title: Creative UX/UI Design Agency
-bg_image: images/feature-bg.jpg
+  enable : true
+  title : ""
+  content : โครงการนี้ได้พัฒนาหลักสูตรระยะสั้นโดยออกแบบชุด “โมดูล” (module) เพื่อสร้างทักษะใหม่ (reskill) และยกระดับทักษะที่มีอยู่เดิม (upskill) ของบุคลากรทางการศึกษาทุกประเภท เป้าหมายของโครงการมุ่งพัฒนาทักษะการทำงานของบุคลากรทางการศึกษาที่เป็นกลุ่มเป้าหมายในการอบรม ผลลัพธ์ของโครงการจะทำให้ได้บัณฑิตพันธุ์ใหม่หรือครูรุ่นใหม่ที่สามารถออกแบบชั้นเรียนโดยใช้เทคโนโลยีหรือนวัตกรรมทางการศึกษาได้อย่างมีประสิทธิผล การสร้างชั้นเรียนนวัตกรรมจะส่งผลให้ผู้เรียนมีคุณลักษณะที่พึงประสงค์ตามมาตรฐานการศึกษาของชาติที่กำหนดในรูปของ DOE  ผู้เรียนที่ผ่านการเรียนรู้จาก ชั้นเรียนนวัตกรรมจะมีทักษะความสามารถที่สอดคล้องกับความต้องการของยุคสมัยใหม่และเหมาะกับแนวทางการพัฒนาประเทศต่อไป </br></br> ผลลัพธ์ปลายทางของหลักสูตรจึงประกอบด้วยทักษะความสามารถ 3 ประการ ได้แก่ 1) ทักษะการคิดออกแบบ 2) ทักษะการโค้ชชิ่ง และ 3) ทักษะการออกแบบชั้นเรียนนวัตกรรม โครงสร้างของหลักสูตรเพื่อเสริมสร้างทักษะทั้งสามประการจะผสมผสานบูรณาการผ่านโมดูลที่ออกแบบซึ่งเน้นทั้งภาคทฤษฎีและปฏิบัติในสถานศึกษา ทั้งนี้ บุคลากรทางการศึกษาที่เข้าร่วมโครงการจะมีทั้งกลุ่มอาจารย์มหาวิทยาลัยในคณะครุศาสตร์ศึกษาศาสตร์ กลุ่มครูในโรงเรียนที่เป็นครูพี่เลี้ยงในการให้คำชี้แนะแก่นิสิตนักศึกษาฝึกสอนในโรงเรียน กลุ่มผู้บริหารและครูที่เป็นผู้นำในการพัฒนาครู และกลุ่มศึกษานิเทศก์จากสำนักงานเขตพื้นที่การศึกษา บุคคลเหล่านี้ต้องมีทั้งทักษะความสามารถเพื่อพัฒนานิสิตนักศึกษาครูฝึกสอนและ/หรือครูประจำการในโรงเรียน สามารถออกแบบกิจกรรมการเรียนรู้โดยใช้เทคโนโลยีดิจิทัลทั้งแบบออนไลน์หรือออฟไลน์ได้อย่างเหมาะสม
+  image : "images/company/company-group-pic.jpg"
+
+
+   
 cta:
-  enable: true
-description: this is meta description
+  enable: false
+description: โลกสมัยใหม่ในยุคดิจิทัลทำให้การจัดการเรียนการสอนจะต้องมีการปรับตัวอย่างมากมาย เนื่องจากความก้าวหน้าทางเทคโนโลยีคอมพิวเตอร์หรือเทคโนโลยีการสื่อสารเข้ามามีผลกระทบต่อการเรียนรู้ของผู้เรียนในยุคนี้ ดังนั้น ครูจำเป็นต้องปรับเปลี่ยนแนวคิดและวิธีการทำงานในการจัดการเรียนการสอนที่ต่างจากอดีต
 draft: false
 featured_service:
   enable: true
   service_item:
   - color: primary
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-    icon: ion-erlenmeyer-flask
-    name: Interface Design
+    content: เป็นแนวคิดสากลที่มีหลักฐานสนับสนุนว่าจะช่วยพัฒนาความคิดสร้างสรรค์ของผู้เรียน ทำให้ผู้เรียนมีความสุข เป็นชั้นเรียนที่เปิดกว้างทางความคิด &nbsp; สร้างแรงบันดาลใจและความเชื่อมั่นในการเรียนของผู้เรียน ผลการสร้างชั้นเรียนนวัตกรรมจะนำไปสู่การพัฒนาผู้เรียนให้มีคุณลักษณะที่กำหนดในมาตรฐานการศึกษาของชาติ พ.ศ. 2561 ได้แก่ ความเป็นบุคคลเรียนรู้ ผู้ร่วมสร้างสรรค์นวัตกรรม และพลเมืองที่เข้มแข็ง
+    icon: ion-earth
+    name: Innovative Classroom
   - color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-    icon: ion-leaf
-    name: Product Branding
-  - color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: เป็นแนวคิดสมัยใหม่ที่ยอมรับกันในปัจจุบันในการสร้างความคิดใหม่ในการแก้ปัญหาซับซ้อน การคิดออกแบบ (design thinking) เป็นกรอบคิด (mindset) และสมรรถนะ (competency) ที่อาศัยการทำงานเป็นทีมผ่านการระดมความคิดจากบุคคลที่มีประสบการณ์หรือมุมมองที่หลากหลายมาช่วยกันคิดค้นพัฒนาวิธีการปัญหาที่ซับซ้อนและแก้ไขได้ยาก
     icon: ion-lightbulb
-    name: Game Development
+    name: Design Thinking
+  - color: primary-darker
+    content: เป็นแนวคิดที่นักวิชาการทางการศึกษาได้นำมาใช้พัฒนาครูในประเทศไทยนับเป็นเวลากว่าสิบปี โครงการนี้มีความเชื่อว่าบุคลากรทางการศึกษาที่เข้าร่วมมีหลายกลุ่ม แต่ละกลุ่มต่างมีศักยภาพที่มีจุดเด่นต่างกัน สามารถแลกเปลี่ยนเรียนรู้ระหว่างกันได้ การยกระดับทักษะการทำงานใหม่ให้กับบุคลากรทางการศึกษาสามารถทำได้ผ่านกระบวนการโคชชิ่ง เป้าหมายสำคัญของโครงการนี้จึงมุ่งพัฒนา ทักษะโค้ชชิ่ง แก่บุคลากรทางการศึกษา เพื่อให้บุคคลเหล่านี้สามารถทำหน้าที่โค้ชได้อย่างมีประสิทธิผล...
+    icon: ion-chatbubbles
+    name: Coaching
 layout: service
 menu:
   main:
-    name: Service
+    name: เกี่ยวกับโครงการ
     parent: More
     weight: 1
 service:
-  description: ผลลัพธ์ปลายทางของหลักสูตรประกอบด้วยทักษะความสามารถ 3 ประการ ได้แก่ ทักษะการคิดออกแบบ ทักษะการโค้ชชิ่ง และทักษะการออกแบบชั้นเรียนนวัตกรรม </br> โครงสร้างของหลักสูตรเพื่อเสริมสร้างทักษะทั้งสามประการนี้จะผสมผสานบูรณาการผ่านโมดูลที่ออกแบบซึ่งเน้นทั้งภาคทฤษฎีและปฏิบัติในสถานศึกษา
+  description: 
 
-  enable: true
+  enable: false
   service_item:
   
   - content: เป็นแนวคิดสากลที่มีหลักฐานสนับสนุนว่าจะช่วยพัฒนาความคิดสร้างสรรค์ของผู้เรียน ทำให้ผู้เรียนมีความสุข เป็นชั้นเรียนที่เปิดกว้างทางความคิด สร้างแรงบันดาลใจ </br> และความเชื่อมั่นในการเรียนของผู้เรียน </br> ผลการสร้างชั้นเรียนนวัตกรรมจะนำไปสู่การพัฒนาผู้เรียนให้มีคุณลักษณะที่กำหนดในมาตรฐานการศึกษาของชาติ พ.ศ. 2561 ได้แก่ ความเป็นบุคคลเรียนรู้ ผู้ร่วมสร้างสรรค์นวัตกรรม และพลเมืองที่เข้มแข็ง
@@ -61,6 +51,6 @@ service:
   - content: โครงการนี้ได้พัฒนาชุดโมดูล เพื่อสร้างทักษะใหม่ (reskill) และยกระดับทักษะที่มีอยู่ (upskill) ของบุคลากรทางการศึกษาทุกประเภท ผลลัพธ์ของโครงการจะทำให้ได้บัณฑิตพันธุ์ใหม่หรือครูรุ่นใหม่ที่สามารถออกแบบชั้นเรียนโดยใช้เทคโนโลยีหรือนวัตกรรมทางการศึกษาได้อย่างมีประสิทธิผล การสร้างชั้นเรียนนวัติกรรมจะส่งผลให้ผู้เรียนมีคุณลักษณะที่พึงประสงค์ตามมาตรฐานการศึกษาของชาติที่กำหนด 
     icon: ion-arrow-up-a
     name: UpSkill & ReSkill
-  title: Our Project
-title: Service
+  title: Project Outcome
+title: เกี่ยวกับโครงการ
 ---
