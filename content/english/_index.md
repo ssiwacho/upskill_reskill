@@ -12,7 +12,7 @@ banner:
   button:
     enable: true
     label: สมัครเข้าร่วมโครงการ
-    link: project
+    link: https://forms.gle/LESQ5Tf21yhrezEW8
   content: หลักสูตร "การคิดออกแบบ โค้ชชิ่ง และการออกแบบชั้นเรียนนวัตกรรม" <br> เพื่อสร้างและยกระดับทักษะการทำงานของบุคลากรทางการศึกษาสำหรับการเรียนรู้ออนไลน์และออฟไลน์
   enable: true
   title: Educator Online Learning Platform
@@ -20,13 +20,11 @@ cta:
   bg_image: images/call-to-action-bg.jpg
   button:
     enable: true
-    label: Tell Us Your Story
-    link: contact
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+    label: สมัครเข้าร่วมโครงการ
+    link: https://forms.gle/LESQ5Tf21yhrezEW8
+  content: 
   enable: true
-  title: We design delightful digital experiences.
+  title: สนใจเข้าร่วมหลักสูตรแล้วใช่มั้ย
 funfacts:
   description: '''Far far away, behind the word mountains, far from the countries
     Vokalia and Consonantia, <br> there live the blind texts. Separated they live
@@ -46,11 +44,9 @@ funfacts:
     icon: ion-ios-timer-outline
     name: Combined Projects
   testimonial_slider:
-  - content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+  - content: ตั้งแต่ไปผ่ากระเพาะมา ก็ไม่อยากอาหารใด ๆ อีกเลย
     designation: CEO-Themefisher
-    image: images/clients/avater-1.jpg
+    image: images/clients/kanit.jpg
     name: Raymond Roy
   - content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
