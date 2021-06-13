@@ -1,28 +1,21 @@
 ---
 about:
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  content: โครงการนี้ได้พัฒนาหลักสูตรระยะสั้นโดยออกแบบชุด “โมดูล” (module) เพื่อสร้างทักษะใหม่ (reskill) และยกระดับทักษะที่มีอยู่เดิม (upskill) ของบุคลากรทางการศึกษาทุกประเภท เป้าหมายของโครงการมุ่งพัฒนาทักษะการทำงานของบุคลากรทางการศึกษาที่เป็นกลุ่มเป้าหมายในการอบรม ผลลัพธ์ของโครงการจะทำให้ได้บัณฑิตพันธุ์ใหม่หรือครูรุ่นใหม่ที่สามารถออกแบบชั้นเรียนโดยใช้เทคโนโลยีหรือนวัตกรรมทางการศึกษาได้อย่างมีประสิทธิผล การสร้างชั้นเรียนนวัตกรรมจะส่งผลให้ผู้เรียนมีคุณลักษณะที่พึงประสงค์ตามมาตรฐานการศึกษาของชาติที่กำหนดในรูปของ DOE  ผู้เรียนที่ผ่านการเรียนรู้จาก ชั้นเรียนนวัตกรรมจะมีทักษะความสามารถที่สอดคล้องกับความต้องการของยุคสมัยใหม่และเหมาะกับแนวทางการพัฒนาประเทศต่อไป
+  description: โลกสมัยใหม่ในยุคดิจิทัลทำให้การจัดการเรียนการสอนจะต้องมีการปรับตัวอย่างมากมาย เนื่องจากความก้าวหน้าทางเทคโนโลยีคอมพิวเตอร์ หรือเทคโนโลยีการสื่อสารเข้ามามีผลกระทบต่อการเรียนรู้ของผู้เรียนในยุคนี้ ดังนั้น ครูจำเป็นต้องปรับเปลี่ยนแนวคิดและวิธีการทำงานในการจัดการเรียนการสอนที่ต่างจากอดีต
+  
   enable: true
-  image: images/wrapper-img.png
-  title: About Us
+  image: images/idea.jpg
+  title: แนวคิดและเหตุผลของหลักสูตร
 banner:
-  bg_image: images/slider-bg.jpg
+  bg_image: images/upskilling.jpg
   bg_overlay: true
   button:
     enable: true
-    label: Discover Our Project
+    label: สมัครเข้าร่วมโครงการ
     link: project
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: หลักสูตร "การคิดออกแบบ โค้ชชิ่ง และการออกแบบชั้นเรียนนวัตกรรม" <br> เพื่อสร้างและยกระดับทักษะการทำงานของบุคลากรทางการศึกษาสำหรับการเรียนรู้ออนไลน์และออฟไลน์
   enable: true
-  title: A Digital Marketing <br/> & Design Agency
+  title: Educator Online Learning Platform
 cta:
   bg_image: images/call-to-action-bg.jpg
   button:
@@ -82,16 +75,11 @@ portfolio:
     enable: true
     label: View Works
     link: project
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: "โครงการนี้มีวัตถุประสงค์ปลายทางเพื่อพัฒนาหลักสูตร “การคิดออกแบบ การโค้ชชิ่ง และการออกแบบชั้นเรียนนวัตกรรม” เพื่อสร้างและยกระดับทักษะการทำงานของบุคลากรทางการศึกษาเพื่อพัฒนาห้องเรียนแบบออนไลน์และออฟไลน์ในโรงเรียน โดยมีวัตถุประสงค์เฉพาะดังต่อไปนี้ </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. เพื่อสร้างทักษะใหม่ของการปฏิบัติงาน (reskill) ด้านการคิดออกแบบและการโค้ชชิ่งแก่บุคลากรทางการศึกษาเพื่อส่งเสริมการปฏิบัติงานในวิชาชีพครู </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. เพื่อยกระดับ (upskill) สมรรถนะทางวิชาชีพของนิสิตฝึกสอน/ครูในโรงเรียนเป็นครูรุ่นใหม่ให้มีทักษะการออกแบบชั้นเรียนนวัตกรรมทั้งแบบชั้นเรียนออนไลน์และออฟไลน์ที่เหมาะสมกับการเรียนรู้ยุคเทคโนโลยีดิจิทัลโดยใช้การคิดออกแบบและการโค้ชชิ่งเพื่อสร้างประสบการณ์การเรียนรู้ที่สร้างสรรค์แก่ผู้เรียน"
   enable: true
-  title: WE BELIEVE IN GREAT IDEAS
+  title: วัตถุประสงค์ของหลักสูตร
 service:
   enable: true
 ---

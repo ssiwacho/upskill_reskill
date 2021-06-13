@@ -1,5 +1,5 @@
 baseURL: http://examplesite.org
-title: KruRoo @ EDU CU
+title: Educator Online Learning Platform
 theme: airspace-hugo
 paginate: '4'
 summaryLength: '30'
@@ -17,33 +17,33 @@ markup:
     ordered: no
     startLevel: 2
 params:
-  author: Themefisher
+  author: KruRoo @ Edu CU
   contact:
     address_descriptors: no
-    email: demo@email.com
+    email: upskill.reskill.educhula@gmail.com
     form:
       action: '#'
       enable: no
-      success_image: images/paper-plane.svg
+      success_image: images/Asset1.svg
       use_netlify: yes
-    location: "**Themefisher**  \nNorth Main Street  \nBrooklyn, New South Wales  \nAustralia\n"
-    phone: 0124857985320
+    location: "**คณะครุศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย**  \n 254 ถนนพญาไท  \n แขวงวังใหม่ เขตปทุมวัน  \n กรุงเทพฯ 10330 \n"
+    #phone: 0124857985320
   cookies:
-    enable: yes
+    enable: no
     expire_days: 2
   counter:
-    enable: yes
+    enable: no
     username: ''
-  description: This is meta description
+  description: หลักสูตร ""
   gmap:
-    enable: yes
+    enable: no
     gmap_api: AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU
-    map_latitude: '51.5223477'
-    map_longitude: '-0.1622023'
+    map_latitude: '13.7368033'
+    map_longitude: '100.5265296'
     map_marker: images/marker.png
-  image: images/logo.png
-  logo: images/logo.png
-  logo_width: 150px
+  image: images/Asset2.png
+  logo: images/Asset2.png
+  logo_width: 100px
   plugins:
     css:
       - attributes: media='screen'
@@ -71,18 +71,9 @@ params:
     enable: yes
     preloader: ''
   social:
-    - icon: ion-social-googleplus-outline
-      link: '#'
-    - icon: ion-social-linkedin-outline
-      link: '#'
-    - icon: ion-social-pinterest-outline
-      link: '#'
-    - icon: ion-social-dribbble-outline
-      link: '#'
-    - icon: ion-social-twitter-outline
-      link: '#'
     - icon: ion-social-facebook-outline
-      link: '#'
+      link: 'https://www.facebook.com/Upskill-Reskill-Edu-Chula-108438281469923/'
+    - icon: ion-laptop-outline
   widgets:
     sidebar:
       - recent_posts
@@ -91,7 +82,7 @@ params:
 languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights
+    copyright: Copyright &copy; 2021 [คณะครุศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย](https://www.edu.chula.ac.th/). All Rights
       Reserved.
     languageCode: en-US
     languageName: English
@@ -101,7 +92,7 @@ languages:
           name: About
           weight: 1
         - URL: project
-          name: Facebook
+          name: Project
           weight: 2
         - URL: service
           name: Service
