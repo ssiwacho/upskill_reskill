@@ -70,7 +70,7 @@ menu:
     name: Home
     weight: 1
 portfolio:
-  bg_image: images/feature-bg.jpg
+  bg_image: images/objective.jpg
   button:
     enable: true
     label: View Works
