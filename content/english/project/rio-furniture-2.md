@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: Illustration
+category: curriculum
 description: 
 draft: false
 image: images/portfolio/work2.jpg

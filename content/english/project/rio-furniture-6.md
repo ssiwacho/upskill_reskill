@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: Video
+category: curriculum
 description: 
 draft: false
 image: images/portfolio/work6.jpg

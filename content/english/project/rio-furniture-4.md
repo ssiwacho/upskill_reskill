@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: UI/UX Design
+category: Schedule
 description: 
 draft: false
 image: images/portfolio/work4.jpg
