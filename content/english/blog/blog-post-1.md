@@ -2,13 +2,13 @@
 author: ศ.ดร.สุวิมล ว่องวาณิช
 bg_image: images/feature-bg.jpg
 categories:
-- Design Thinking
+- DesignThinking
 date: "2021-06-14T11:07:10+06:00"
 description: 
 draft: true
 image: images/blog/blog-post-1.jpg
 tags:
-- Design Thinking
+- DesignThinking
 title: มโนทัศน์ของการคิดออกแบบ
 type: post
 ---
