@@ -12,8 +12,8 @@ banner:
   bg_overlay: true
   button:
     enable: true
-    label: สมัครเข้าร่วมโครงการ
-    link: https://forms.gle/LESQ5Tf21yhrezEW8
+    label: เข้าสู่ระบบ KruRoo LMS
+    link: www.kruroo.com
   content: หลักสูตร "การคิดออกแบบ โค้ชชิ่ง และการออกแบบชั้นเรียนนวัตกรรม" <br> เพื่อสร้างและยกระดับทักษะการทำงานของบุคลากรทางการศึกษาสำหรับการเรียนรู้ออนไลน์และออฟไลน์
   enable: true
   title: Online Learning  platform for Educators
