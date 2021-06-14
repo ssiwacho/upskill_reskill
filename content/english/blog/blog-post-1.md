@@ -30,45 +30,5 @@ type: post
 
 
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Trirong:wght@300;400;500&display=swap" rel="stylesheet"> 
-
-<style type="text/css">
-body{ /* Normal  */
-      font-size: 16px;
-    font-family: 'Trirong', serif;      color: #1B2631;
-      line-height: 1.7em;
-  }
-td {  /* Table  */
-  font-size: 8px;
-}
-h1.title {
-  font-size: 38px;
-    font-family: 'Trirong', serif;
-    }
-h1 { /* Header 1 */
-  font-size: 28px;
-  color: #154360;
-  font-family: 'Athiti', sans-serif;
-  
-
-}
-h2 { /* Header 2 */
-    font-size: 22px;
-  font-family: 'Athiti', sans-serif;
-
-
-}
-h3 { /* Header 3 */
-  font-size: 20px;
-    font-family: 'Maitree', serif;  
-}
-code.r{ /* Code block */
-    font-size: 12px;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
-}
-</style>
 
 

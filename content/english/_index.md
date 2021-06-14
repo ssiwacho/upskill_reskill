@@ -56,7 +56,7 @@ funfacts:
     designation: ตัวทดลองเบอร์ 001
     image: images/clients/KSK.jpg
     name: ผศ.ดร. กนิษฐ์ ศรีเคลือบ	
-  title: หลักสูตร
+  title: Learning Modules
 menu:
   main:
     name: Home
