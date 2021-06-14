@@ -9,7 +9,6 @@ draft: true
 image: images/blog/blog-post-1.jpg
 tags:
 - Design Thinking
-- Concept
 title: มโนทัศน์ของการคิดออกแบบ
 type: post
 ---

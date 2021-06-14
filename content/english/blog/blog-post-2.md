@@ -9,7 +9,6 @@ draft: false
 image: images/blog/blog-post-2.jpg
 tags:
 - Coaching
-- Concept
 title: มโนทัศน์ของการโค้ชชิ่ง
 type: post
 ---
