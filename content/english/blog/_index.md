@@ -5,7 +5,8 @@ draft: false
 menu:
   main:
     identifier: blog
-    name: หลักสูตร
+    name: แหล่งความรู้เผยแพร่
+    parent: More
     weight: 3
-title: หลักสูตร
+title: แหล่งความรู้เผยแพร่
 ---

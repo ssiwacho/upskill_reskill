@@ -52,5 +52,5 @@ service:
     icon: ion-arrow-up-a
     name: UpSkill & ReSkill
   title: Project Outcome
-title: เกี่ยวกับโครงการ
+title: เกี่ยวกับโครงการฯ
 ---

@@ -4,8 +4,7 @@ description: this is meta description
 draft: false
 menu:
   main:
-    name: ความรู้เผยแพร่
-    parent: More
+    name: เกี่ยวกับหลักสูตร/กำหนดการ
     weight: 2
-title: ความรู้เผยแพร่
+title: เกี่ยวกับหลักสูตร/กำหนดการ
 ---
