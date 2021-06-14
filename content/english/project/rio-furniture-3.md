@@ -1,7 +1,7 @@
 ---
 bg_image: images/feature-bg.jpg
 category: Video
-description: this is meta description
+description: 
 draft: false
 image: images/portfolio/work3.jpg
 information:
@@ -17,7 +17,7 @@ information:
   label: Skills
 - info: Jannie Kelonsky
   label: Client
-title: Rio Furniture
+title: กำหนดการอบรม
 ---
 
 ## Behance Website Redesign

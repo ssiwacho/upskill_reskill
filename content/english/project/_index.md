@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-description: this is meta description
+description: 
 draft: false
 menu:
   main:
