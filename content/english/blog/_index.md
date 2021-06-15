@@ -4,7 +4,7 @@ description:
 draft: false
 menu:
   main:
-    identifier: blog
+    identifier: blog1
     name: แหล่งความรู้เผยแพร่
     parent: More
     weight: 3

@@ -18,7 +18,7 @@ banner:
   enable: true
   title: Online Learning  platform for Educators
 cta:
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: images/innovative.jpg
   button:
     enable: true
     label: สมัครเข้าร่วมโครงการ
@@ -63,7 +63,7 @@ menu:
     weight: 1
 
 portfolio:
-  bg_image: images/objective.jpg
+  bg_image: images/S__85606431.jpg
   button:
     enable: false
     label: View Works
