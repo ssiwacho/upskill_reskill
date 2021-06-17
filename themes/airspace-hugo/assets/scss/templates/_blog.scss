@@ -4,6 +4,7 @@
 
 .blog {
   background: #F6F6F6;
+  
 }
 
 .post {
@@ -44,7 +45,8 @@
 
   .post-meta {
     font-size: 13px;
-    margin-top: 10px;
+    margin-top: 20px;
+    
 
     ul {
       li {
@@ -56,6 +58,7 @@
 
         a {
           color: #909090;
+          
 
           &:hover {
             color: $primary-color;
@@ -73,8 +76,10 @@
     margin-top: 20px;
 
     p {
-      line-height: 26px;
+      line-height: 20px;
+
     }
+    
 
     ul {
       font-size: 15px;
@@ -99,7 +104,7 @@
 
     .btn-main {
       padding: 10px 20px;
-      margin: 15px 0;
+      margin:15px 0;
       font-size: 12px;
     }
   }
