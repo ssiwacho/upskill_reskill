@@ -75,7 +75,7 @@ params:
     - icon: ion-chatbubble-working
       link: 'https://www.facebook.com/messages/t/108438281469923'
     - icon: ion-university
-      link: 'www.kruroo.com'
+      link: 'https://kruroo.com'
   widgets:
     sidebar:
       - recent_posts

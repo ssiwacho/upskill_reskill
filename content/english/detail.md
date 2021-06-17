@@ -1,5 +1,5 @@
 ---
-bg_image: images/feature-bg.jpg
+bg_image: images/stock-vector-horizontal-banner-with-hands-typing-on-computer-and-various-office-supplies-drawn-with-contour-1090844168.jpg
 description: 
 draft: false
 layout: post
