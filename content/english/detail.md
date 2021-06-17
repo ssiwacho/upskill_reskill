@@ -10,6 +10,8 @@ menu:
 title: หลักสูตร
 ---
 
+---
+
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400&family=Trirong:wght@300;400;500&display=swap');
@@ -172,6 +174,15 @@ tbody tr:hover {
 
 
 <p style="text-indent: 0.1em;"><strong>4.2 การฝึกภาคปฏิบัติในสถานศึกษา</strong> ผู้สมัครแสดงหลักฐานว่ามีนิสิตฝึกสอนหรือครูประจำการในโรงเรียนภายใต้การดูแล
+
+
+</br>
+</br>
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdVNA56AeqwoxVfdyA27QLnUr8IP3kHQy__7l-DcIc67MUsvQ/viewform"><btn-main class="btn-main button1">สมัครเข้าร่วมโครงการ</button></a>
 
 
 
