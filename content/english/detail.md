@@ -81,7 +81,7 @@ tbody tr:hover {
   <thead>
     <tr>
       <th>โมดูล
-      <th>สาระในโมดูล
+      <th width=550>สาระในโมดูล
       <th width=120>จำนวนชั่วโมง
 
   </thead>
