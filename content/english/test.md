@@ -11,6 +11,7 @@ draft: false
 menu:
   main:
     name: "About"
+    parent: More
     weight: 5
 
 

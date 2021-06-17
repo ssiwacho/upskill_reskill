@@ -90,18 +90,18 @@ languages:
     languageName: English
     menu:
       footer:
-        - URL: project
-          name: รายละเอียดหลักสูตร
+        - URL: index.html
+          name: Home
           weight: 2
-        - URL: service
-          name: ความรู้เผยแพร่
+        - URL: blog
+          name: แหล่งความรู้เผยแพร่
           weight: 3
-        - URL: faq
-          name: FAQ
-          weight: 5
+        - URL: test
+          name: เกี่ยวกับโครงการ
+          weight: 4
         - URL: contact
           name: ติดต่อเรา
-          weight: 6
+          weight: 5
       main:
         - hasChildren: no
           name: More
