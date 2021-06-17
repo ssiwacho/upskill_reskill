@@ -10,9 +10,8 @@ layout: "about"
 draft: false
 menu:
   main:
-    parent: More
     name: "About"
-    weight: 3
+    weight: 5
 
 
 ################################## About #####################################
