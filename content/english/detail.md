@@ -10,7 +10,6 @@ menu:
 title: หลักสูตร
 ---
 
----
 
 
 <style>
@@ -59,6 +58,16 @@ tbody tr:hover {
 
 
 </style>
+
+
+
+
+
+
+
+
+
+
 
 
 ## กิจกรรมการฝึกอบรม
@@ -178,13 +187,19 @@ tbody tr:hover {
 <p style="text-indent: 0.1em;"><strong>4.2 การฝึกภาคปฏิบัติในสถานศึกษา</strong> ผู้สมัครแสดงหลักฐานว่ามีนิสิตฝึกสอนหรือครูประจำการในโรงเรียนภายใต้การดูแล
 
 
-</br>
-</br>
 
+
+### 5. กำหนดการ
+
+ผู้เรียน/ผู้สนใจ สามารถติดตามกำหนดการของหลักสูตรได้จากหน้ากำหนดการ [คล้ิกที่นี่](/schedule) หรือติดตามได้จากทางเพจ <a href="https://www.facebook.com/Upskill-Reskill-Edu-Chula-108438281469923/"> <i class="ion-social-facebook"></i></a>
+
+</br>
+</br>
 
 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVNA56AeqwoxVfdyA27QLnUr8IP3kHQy__7l-DcIc67MUsvQ/viewform"><btn-main class="btn-main button1">สมัครเข้าร่วมโครงการ</button></a>
+
 
 
 
