@@ -22,13 +22,13 @@ title: กำหนดการเปิดการฝึกอบรม
     grid-gap: 1em;
     grid-template-rows:
       [tracks] auto
-      [time-0900] 1fr
-      [time-0905] 1fr
-      [time-0920] 1fr
-      [time-0935] 1fr
-      [time-0950] 1fr
-      [time-1000] 1fr
-      [time-1200] 1fr;
+      [time-0900] auto
+      [time-0905] auto
+      [time-0920] auto
+      [time-0935] auto
+      [time-0950] auto
+      [time-1000] auto
+      [time-1010] auto;
       /* Note 1:
       Use 24hr time for gridline names for simplicity
 
@@ -182,10 +182,19 @@ hr {
 </style>
 
 
+### หลักสูตรการคิดออกแบบ การโค้ชชิ่ง และการจัดชั้นเรียนนวัตกรรม เพื่อสร้างและยกระดับทักษะ   การทำงานของบุคลากรทางการศึกษาสำหรับการเรียนรู้ออนไลน์และออฟไลน์
+
+วันอาทิตย์ที่ 4 กรกฎาคม พ.ศ. 2564  
+
+เวลา 09.00-10.00 น. 
+
+พิธีเปิดจัดผ่านระบบออนไลน์ ผู้เรียน/ผู้สนใจ สามารถเข้าร่วมได้โดยคลิ้กที่ช่องทางด้านล่าง
+
+<a href=""><btn-main class="btn-main button1">เข้าร่วมพิธีเปิดการฝึกอบรม</button></a>
+
 
 <div class="text">
   
-
 
   <hr>
   
@@ -193,8 +202,7 @@ hr {
 
 <div class="schedule" aria-labelledby="schedule-heading">
   
-
-  
+ 
   <h2 class="time-slot" style="grid-row: time-0900;">9:00am</h2>
 
   <div class="session session-1 track-1" style="grid-column: track-1-start / track-4-end; grid-row: time-0900 / time-0905;">
@@ -241,4 +249,8 @@ hr {
   </div>
   
 </div>
+
+
+
+
 
