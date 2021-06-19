@@ -53,7 +53,7 @@ section#timeline article:after {
 section#timeline article div.inner {
   width: 40%;
   float: left;
-  margin: 5px 0 0 0;
+  margin: 1px 0 0 0;
   border-radius: 6px;
 }
 section#timeline article div.inner span.date {
@@ -95,7 +95,7 @@ section#timeline article div.inner h2 {
   padding: 15px;
   margin: 0;
   color: #fff;
-  font-size: 20px;
+  font-size: 14px;
   font-family: 'Trirong', serif;
   text-transform: uppercase;
   letter-spacing: -1px;
@@ -114,7 +114,7 @@ section#timeline article div.inner h2:after {
 section#timeline article div.inner p {
   padding: 15px;
   margin: 0;
-  font-size: 14px;
+  font-size: 12px;
   font-family: 'Trirong', serif;
   background: #fff;
   color: #656565;
