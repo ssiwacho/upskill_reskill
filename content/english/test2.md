@@ -6,9 +6,9 @@ layout: post
 menu:
   main:
     parent: More
-    name: "ตารางการฝึกอบรม2"
+    name: "ตารางการฝึกอบรม"
     weight: 3
-title: ตารางการฝึกอบรม2
+title: ตารางการฝึกอบรม
 ---
 
 
