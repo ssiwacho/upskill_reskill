@@ -40,7 +40,7 @@ input[type="tel"] {
   box-shadow: none;
   height: 45px;
   outline: none;
-  font-size: 14px;
+  font-size: 16px;
 
   &:focus {
     box-shadow: none;
@@ -71,7 +71,7 @@ input[type="tel"] {
   background: $primary-color;
   color: $light;
   display: inline-block;
-  font-size: 14px;
+  font-size: 18px;
   letter-spacing: 1px;
   padding: 14px 35px;
   text-transform: uppercase;
@@ -275,6 +275,8 @@ input[type="tel"] {
 
   p {
     font-style: italic;
+    font-size: 17px;
+
     color: #666;
     font-family: $secondary-font;
   }
@@ -282,16 +284,16 @@ input[type="tel"] {
 
 
 .section-subtitle {
-  font-size: 28px;
+  font-size: 30px;
   font-weight: 600;
   margin-bottom: 30px;
 
   @include mobile-xs {
-    font-size: 26px;
+    font-size: 28px;
   }
 
   @include mobile {
-    font-size: 24px;
+    font-size: 26px;
   }
 }
 
@@ -313,6 +315,8 @@ input[type="tel"] {
 
     p {
       color: $light;
+      font-size: 17px;
+
     }
   }
 }
@@ -494,6 +498,8 @@ input[type="tel"] {
     a {
       border-radius: 0;
       background: #f9f9f9;
+      font-size: 17px;
+
 
       &:hover {
         border: 1px solid transparent;
@@ -525,7 +531,7 @@ input[type="tel"] {
 
       a {
         display: block;
-        font-size: 14px;
+        font-size: 16px;
         text-transform: uppercase;
         padding: 10px 10px;
       }

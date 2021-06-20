@@ -16,7 +16,7 @@
       right: 12px;
       background: $black;
       color: $light;
-      font-size: 12px;
+      font-size: 16px;
       padding: 4px 12px;
       font-weight: 300;
       display: inline-block;
@@ -81,13 +81,14 @@
     text-align: center;
 
     h4 {
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 400;
       margin-top: 15px;
       margin-bottom: 6px;
 
       a {
         color: $black;
+        font-size: 16px;
       }
     }
   }
