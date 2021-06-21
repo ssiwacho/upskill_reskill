@@ -93,15 +93,18 @@ languages:
         - URL: index.html
           name: Home
           weight: 2
+        - URL: schedule
+          name: กำหนดการ
+          weight: 3
         - URL: blog
           name: แหล่งความรู้เผยแพร่
-          weight: 3
+          weight: 4
         - URL: test
           name: เกี่ยวกับโครงการ
-          weight: 4
+          weight: 5
         - URL: contact
           name: ติดต่อเรา
-          weight: 5
+          weight: 
       main:
         - hasChildren: no
           name: More
