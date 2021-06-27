@@ -405,3 +405,5 @@ header h1{
     </div>
   </li>
 </ul>
+
+{{< auth >}}
