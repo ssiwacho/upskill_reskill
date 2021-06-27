@@ -13,7 +13,7 @@ const checkAuth = require('./check-auth');
 const UserModel = require("./user");
 
 var secret = 'XYZLQ3M0RKe6Bz6tYtU';
-var mogoUrl = 'mongodb+srv://ssiwacho:<password>@cluster0.4j5ws.mongodb.net/test?retryWrites=true';
+var mogoUrl = 'mongodb+srv://ssiwacho:ssiwacho3814997@cluster0.4j5ws.mongodb.net/test?retryWrites=true';
 
 const mongoose = require("mongoose");
 
