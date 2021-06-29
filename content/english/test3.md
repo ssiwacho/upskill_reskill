@@ -103,7 +103,7 @@ header h1{
   width: 16px;
   height: 10px;
   position: absolute;
-  background: #E77F00;
+  background: #494755;
   z-index: 5;
   left: 0;
   right: 0;
@@ -114,7 +114,7 @@ header h1{
 }
 
 .timeline .hexa:before {
-  border-bottom: 4px solid #E77F00;
+  border-bottom: 4px solid #494755;
   border-left-width: 8px;
   border-right-width: 8px;
   top: -4px;
@@ -123,7 +123,7 @@ header h1{
 .timeline .hexa:after {
   border-left-width: 8px;
   border-right-width: 8px;
-  border-top: 4px solid #E77F00;
+  border-top: 4px solid #494755;
   bottom: -4px;
 }
 
@@ -196,7 +196,7 @@ header h1{
 }
 
 .time {
-  background: #E77F00;
+  background: #494755;
   display: inline-block;
   padding: 8px;
 }
