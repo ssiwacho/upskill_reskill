@@ -93,14 +93,14 @@ languages:
         - URL: index.html
           name: Home
           weight: 2
-        - URL: schedule
-          name: กำหนดการ
+        - URL: project
+          name: ประชาสัมพันธ์
           weight: 3
+        - URL: test3
+          name: กำหนดการฝึกอบรม
+          weight: 4
         - URL: blog
           name: แหล่งความรู้เผยแพร่
-          weight: 4
-        - URL: test
-          name: เกี่ยวกับโครงการ
           weight: 5
         - URL: contact
           name: ติดต่อเรา
