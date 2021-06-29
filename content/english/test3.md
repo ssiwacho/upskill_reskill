@@ -14,7 +14,7 @@ title: กำหนดการฝึกอบรม
 @import url('https://fonts.googleapis.com/css2?family=Trirong&display=swap');
 
 body{
-  font-family: 'Trirong', serif;
+  font-family: 'Sarabun', serif;
   color: #333;
 }
 
@@ -29,6 +29,7 @@ header h1{
    margin-bottom: 0;
  }
 
+
 .hexa{
   border: 0px;
   float: left;
@@ -37,10 +38,11 @@ header h1{
   width: 60px;
   font-size: 22px;
   background: #f0f0f0;
-  color: #E77F00;
+  color: #494755;
   position: relative;
   margin-top: 15px;
 }
+
 
 .hexa:before{
   content: ""; 
@@ -48,7 +50,7 @@ header h1{
   left: 0; 
   width: 0; 
   height: 0;
-  border-bottom: 15px solid #E77F00;
+  border-bottom: 15px solid #494755;
   border-left: 30px solid transparent;
   border-right: 30px solid transparent;
   top: -15px;
@@ -62,7 +64,7 @@ header h1{
   height: 0;
   border-left: 30px solid transparent;
   border-right: 30px solid transparent;
-  border-top: 15px solid #E77F00;
+  border-top: 15px solid #494755;
   bottom: -15px;
 }
 
