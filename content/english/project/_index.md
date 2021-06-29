@@ -5,6 +5,6 @@ draft: false
 bg_image: "images/feature-bg.jpg"
 menu:
   main:
-    name: "Project"
+    name: "ประชาสัมพันธ์"
     weight: 2
 ---

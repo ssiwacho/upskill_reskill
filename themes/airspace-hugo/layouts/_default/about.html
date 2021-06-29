@@ -67,6 +67,66 @@
 {{ end }}
 {{ end }}
 
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400&family=Trirong:wght@300;400;500&display=swap');
+
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    font-family: 'Sarabun', sans-serif;
+    font-size: 1.2em;
+
+    }
+table {
+  background: #FFFFFF;
+  border-radius: 0.4em;
+  border-collapse: separate;
+  margin: 0 em;
+  width: 70%;
+}
+th {
+  border-bottom: 1px solid #364043;
+  color: #474453;
+  font-size: 1em;
+  font-weight: 600;
+  padding: 0.5em 1em;
+  text-align: center;
+}
+td {
+  color: #474453;
+  font-weight: 400;
+  padding: 0.65em 1em;
+}
+.disabled td {
+  color: #4F5F64;
+}
+tbody tr {
+  transition: background 0.25s ease;
+}
+tbody tr:hover {
+  background: #FED680;
+}
+
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
 <section class="testimonial section-sm">
   <div class="container">
     <div class="row">
@@ -116,10 +176,6 @@
   </div>
 </section>
 
-<!-- Call to action -->
-{{ if .Params.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
-<!-- /Call to action -->
+
 
 {{ end }}
