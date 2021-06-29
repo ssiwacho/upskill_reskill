@@ -16,7 +16,7 @@ banner:
     link: https://kruroo.com
   content: หลักสูตร "การคิดออกแบบ โค้ชชิ่ง และการออกแบบชั้นเรียนนวัตกรรม" <br> เพื่อสร้างและยกระดับทักษะการทำงานของบุคลากรทางการศึกษาสำหรับการเรียนรู้ออนไลน์และออฟไลน์
   enable: true
-  title: Online Learning  platform for Educators
+  title: Design Thinking, Coaching, Innovative Classroom Desinging
 
 funfacts:
   description: หลักสูตรนี้เป็นหลักสูตรฝึกอบรมแบบ on-the-job-training เทียบเท่า 9 หน่วยกิต แบ่งเป็นโมดูลภาคทฤษฎีและภาคปฏิบัติ จำนวน 6 โมดูล
