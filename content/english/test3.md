@@ -345,8 +345,8 @@ header h1{
         <span class="time-wrapper"><span class="time">2 ก.ค. 64</span></span>
       </div>
     <div class="direction-r">
-      <div class="desc">18:00 - 21:00 น. </br> ชี้แจงวิธีการเรียน (ดูคลิป) บทบาทของผู้สอน บทบาทของผู้เรียน และวิธีการประเมินผล</br></br>
-                        <a href="www.google.com">- เอกสารประกอบการเรียน</a></div>
+      <div class="desc">18:00 - 21:00 น. </br> ชี้แจงวิธีการเรียน บทบาทของผู้สอน บทบาทของผู้เรียน และวิธีการประเมินผล</br></br>
+                        <a href="https://kruroo.com/course/28">- ดาวน์โหลดรายละเอียดโครงการ DCI และทำแบบทดสอบก่อนเรียน (ในระบบ KruRoo)</a></div>
     </div>
   </li>
 
@@ -356,11 +356,11 @@ header h1{
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag">พิธีเปิดการฝึกอบรม</span>
-        <span class="time-wrapper"><span class="time">9 ก.ค. 64</span></span>
+        <span class="time-wrapper"><span class="time">4 ก.ค. 64</span></span>
       </div>
     <div class="direction-r">
-      <div class="desc">10:00 - 12:00 น. </br> พิธีเปิดจัดผ่านระบบออนไลน์ (โปรแกรม Zoom)</br></br>
-                        ผู้เรียนและผู้สนใจสามารถดูรายละเอียด/เข้าร่วมพิธีเปิดในช่องทางออนไลน์ได้ที่ ---><a href="">คลิ้กเลย</a></div>
+      <div class="desc">10:00 - 11:00 น. </br></br> <a href="/project/test-1/">- พิธีเปิดจัดผ่านระบบออนไลน์ (โปรแกรม Zoom)</a>
+      </div>
     </div>
   </li>
 
@@ -408,6 +408,8 @@ header h1{
   </li>
 </ul>
 
-
 {{< auth >}}
+
+
+
 
