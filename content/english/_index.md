@@ -19,7 +19,7 @@ banner:
   title: Design Thinking, Coaching, Innovative Classroom Desinging
 
 funfacts:
-  description: หลักสูตรนี้เป็นหลักสูตรฝึกอบรมแบบ on-the-job-training เทียบเท่า 9 หน่วยกิต แบ่งเป็นโมดูลภาคทฤษฎีและภาคปฏิบัติ จำนวน 6 โมดูล
+  description: หลักสูตรนี้เป็นหลักสูตรฝึกอบรมแบบ on-the-job-training เทียบเท่า 9 หน่วยกิต </br> แบ่งเป็นโมดูลภาคทฤษฎีและภาคปฏิบัติ จำนวน 6 โมดูล
 
   enable: true
   funfact_item:
