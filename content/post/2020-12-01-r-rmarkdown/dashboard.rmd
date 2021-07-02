@@ -1,0 +1,37 @@
+---
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+---
+
+
+```{r setup, include=FALSE, message=F}
+knitr::opts_chunk$set(echo = TRUE)
+library(flexdashboard)
+library(readxl)
+library(dplyr)
+library(highcharter)
+dat<-read_excel("/Users/siwachoat/Downloads/รายชื่อจับคู่.xlsx", sheet=2) 
+head(dat)
+```
+
+
+### ผู้เข้าอบรมจำแนกตามสังกัด
+
+```{r echo=F, message=F}
+library(ggmap)
+library(leaflet)
+register_google("AIzaSyBhfNvdLVQ706yMr84QlZtxxDK82ri9rnE")
+l<-dat$สังกัด
+locs<-geocode(l)
+
+dat<-cbind(dat,locs)
+
+map<-leaflet(data=dat, width="600px", height="500px") %>% setView(lng = 100.50144, lat = 13.75398, zoom = 6)%>%
+        addTiles()%>%
+  addMarkers(data=dat,locs$lon, locs$lat, label=dat[,5],
+ clusterOptions = markerClusterOptions())
+map
+```
+
+

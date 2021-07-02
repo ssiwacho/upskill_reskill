@@ -1,0 +1,34 @@
+---
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery.min.js"></script>
+<link href="/rmarkdown-libs/leaflet/leaflet.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/leaflet/leaflet.js"></script>
+<link href="/rmarkdown-libs/leafletfix/leafletfix.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/proj4/proj4.min.js"></script>
+<script src="/rmarkdown-libs/Proj4Leaflet/proj4leaflet.js"></script>
+<link href="/rmarkdown-libs/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/leaflet-binding/leaflet.js"></script>
+<link href="/rmarkdown-libs/leaflet-markercluster/MarkerCluster.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/leaflet-markercluster/MarkerCluster.Default.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/leaflet-markercluster/leaflet.markercluster.js"></script>
+<script src="/rmarkdown-libs/leaflet-markercluster/leaflet.markercluster.freezable.js"></script>
+<script src="/rmarkdown-libs/leaflet-markercluster/leaflet.markercluster.layersupport.js"></script>
+
+
+<div id="section" class="section level3">
+<h3>1</h3>
+<div id="htmlwidget-1" style="width:500px;height:500px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[13.75398,100.50144],6,[]],"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[[13.7367981,13.7359564,13.7367981,13.7421,13.7367981,13.7073079,13.7367981,13.7428527,13.7428527,13.7359564,13.7310214,13.7359564,13.7359564,13.7367981,13.7189658,13.7359564,13.7359564,13.7359564,13.7444,13.7461587,13.7421,13.7461587,13.7421,16.7473421,16.8420122,13.2794525,13.3949634,13.0705014,11.5353643,14.983353,14.9818418,13.7467457,13.7595609,17.3963716,17.3975461,14.020611,14.6317834,14.3771545,14.3637808,13.8651525,13.9102361,14.983353,14.9805573,19.171397,19.4603633,19.3741761,19.3741761,13.3325517,13.7367981,13.7428527,13.7467457],[100.5287183,100.5269379,100.5287183,100.565801,100.5287183,100.5471378,100.5287183,100.4981451,100.4981451,100.5269379,100.5293334,100.5269379,100.5269379,100.5287183,100.5813502,100.5269379,100.5269379,100.5269379,100.4948,100.5649456,100.565801,100.5649456,100.565801,100.194197,100.2639988,100.9241748,100.9889996,99.9794665,99.6221573,102.1128827,102.1128226,100.5668679,100.5295519,102.7934775,102.7915058,99.975122,100.0203711,100.5414351,100.5774026,100.4656841,100.5125208,102.1128827,102.1007555,99.908702,100.3243255,99.78788,99.78788,100.9229643,100.5287183,100.4981451,100.5668679],null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,{"showCoverageOnHover":true,"zoomToBoundsOnClick":true,"spiderfyOnMaxZoom":true,"removeOutsideVisibleBounds":true,"spiderLegPolylineOptions":{"weight":1.5,"color":"#222","opacity":0.5},"freezeAtZoom":false},null,["ครุศาสตร์ จุฬาฯ","รร.สาธิต จุฬาฯ","ครุศาสตร์ จุฬาฯ","รร.สาธิต มศว.","ครุศาสตร์ จุฬาฯ","รร. นนทรีวิทยา","ครุศาสตร์ จุฬาฯ","รร. สวนกุหลาบวิทยาลัย","รร. สวนกุหลาบวิทยาลัย","ครุศาสตร์ จุฬาฯ สาธิต-มัธยม","รร.พุทธจักรวิทยา","ครุศาสตร์ จุฬาฯ สาธิต-มัธยม","ครุศาสตร์ จุฬาฯ สาธิต-มัธยม","ครุศาสตร์ จุฬาฯ","รร.ปทุมคงคา","ครุศาสตร์ จุฬาฯ สาธิต-มัธยม","ครุศาสตร์ จุฬาฯ สาธิต-มัธยม","ครุศาสตร์ จุฬาฯ สาธิต-มัธยม","รร. วัดราชบพิธ","ศึกษาศาสตร์ มศว","รร. สาธิต มศว ฝ่ายประถม","ศึกษาศาสตร์ มศว","รร. สาธิต มศว ฝ่ายประถม","ศึกษาศาสตร์ ม.นเรศวร","รร. อนุบาลพิษณุโลก กำลังย้ายรร.","ศึกษาศาสตร์ ม.บูรพา","รร. ชลบุรีสุขบท","ครุศาสตร์ มรภ เพชรบุรี","ศูนย์การศีกษาพิเศษประจำจังหวัดประจวบคีรีขันธ์ หน่วยบริการบางสะพานน้อย","ครุศาสตร์ มรภ.นครราชสีมา","รร. สาธิต มรภ.นครราชสีมา","วิทยาศาสตร์ มศว","รร. พญาไท","ครุศาสตร์ มรภ อุดรธานี","รร.สาธิตราชภัฏอุดรธานี","ศึกษาศาสตร์และพัฒนศาสตร์ ม.เกษตรศาสตร์ วิทยาเขตกำแพงแสน","รร.อนุบาลพระบรมราชานุสรณ์ดอนเจดีย์ สุพรรณบุรี","สพท พระนครศรีอยุธยา","รร. จอมสุรางค์อุปถัมภ์ (อยุธยา)","สพม.นนทบุรี","รร. สวนกุหลาบวิทยาลัย นนทบุรี (คู่บุญ)","ครุศาสตร์ มรภ.นครราชสีมา","รร.อนุบาลนครราชสีมา","รร.พะเยาพิทยาคม","รร.ฝายกวางวิทยาคม","รร.แม่ใจวิทยาคม","รร.แม่ใจวิทยาคม","สพม.ชลบุรี-ระยอง","ครุศาสตร์ จุฬาฯ","รร. สวนกุหลาบวิทยาลัย","วิทยาศาสตร์ มศว"],{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[11.5353643,19.4603633],"lng":[99.6221573,102.7934775]}},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="section-1" class="section level3">
+<h3>2</h3>
+<p>หสกาด่หสกา่ดสาหกด
+หสาก่ดสหา่กดสหก
+ดสหาก่ดสหา่ดสก</p>
+</div>
