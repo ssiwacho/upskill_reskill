@@ -1,0 +1,17 @@
+---
+title: "table"
+author: "Siwachoat Srisuttiyakorn"
+date: "7/2/2021"
+output: html_document
+---
+
+```{r echo=F}
+library(DT)
+library(readxl)
+library(kableExtra)
+dat<-read_excel("/Users/siwachoat/Downloads/รายชื่อจับคู่.xlsx", sheet=2)
+dat %>%
+  kbl() %>%
+  kable_styling()%>%
+  scroll_box()
+```
