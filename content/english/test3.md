@@ -419,11 +419,11 @@ header h1{
       </div>
     <div class="direction-r">
       <div class="desc">- DOE, ผลลัพธ์การเรียนรู้ในหลักสูตรกับการออกแบบชั้นเรียนนวัตกรรม </br>
-     <p align="right"> โดย ศ.ดร.สุวิมล ว่องวานิช</p>
+     <p align="right"> โดย ศ.ดร.สุวิมล ว่องวาณิช</p>
      - การคิดออกแบบทางการศึกษา (5 ขั้น) </br>
      - Designing Thinking: Empathize </br>
      - Designing Thinking: Define problem </br></br>
-      <p align="right"> โดย รศ.ดร.ศจีมาส ณ วิเชียร และคณะ</p>
+      <p align="right"> โดย รศ.ดร.ศจีมาจ ณ วิเชียร และคณะ</p>
       <p align="right"> 18:00 - 21:00 น.</p>
       </div>
     </div>
@@ -440,7 +440,7 @@ header h1{
         <span class="time-wrapper"><span class="time">30 ก.ค. 64</span></span>
       </div>
     <div class="direction-r">
-      <div class="desc">โดย รศ.ดร.ศจีมาส ณ วิเชียร และคณะ</br> 18:00 - 21:00 น.
+      <div class="desc">โดย รศ.ดร.ศจีมาจ ณ วิเชียร และคณะ</br> 18:00 - 21:00 น.
       </div>
     </div>
   </li>
@@ -459,7 +459,7 @@ header h1{
                         - Designing Thinking: Test </br>
                         - แนวคิดและหลักการประเมิน </br>
                         - การเรียนรู้ (AOL, AFL, AAL) </br></br>
-โดย รศ.ดร.ศจีมาส ณ วิเชียร และคณะ</br> 18:00 - 21:00 น.
+โดย รศ.ดร.ศจีมาจ ณ วิเชียร และคณะ</br> 18:00 - 21:00 น.
       </div>
     </div>
   </li>
@@ -516,7 +516,7 @@ header h1{
     <div class="direction-r">
       <div class="desc">- Co-Curricular Activities (CCA) </br>
                         - Connecting Lessons to Real World </br>
-     <p align="right"> โดย ศ.ดร.สุวิมล ว่องวานิช</p></br>
+     <p align="right"> โดย ศ.ดร.สุวิมล ว่องวาณิช</p></br>
      - UDL: Universal Design for Learning 
  </br>
       <p align="right"> โดย อ.ดร.วาทินี อมรไพศาลเลิศ</br>18:00 - 21:00 น.</p>
@@ -622,7 +622,7 @@ header h1{
         <span class="time-wrapper"><span class="time">1 ต.ค. 64</span></span>
       </div>
    <div class="direction-r">
-      <div class="desc">โดย ศ.ดร.สุวิมล ว่องวานิช</br> 18:00 - 21:00 น.
+      <div class="desc">โดย ศ.ดร.สุวิมล ว่องวาณิช</br> 18:00 - 21:00 น.
       </div>
     </div>
   </li>
@@ -637,7 +637,7 @@ header h1{
         <span class="time-wrapper"><span class="time">8 ต.ค. 64</span></span>
       </div>
    <div class="direction-r">
-      <div class="desc">โดย ศ.ดร.สุวิมล ว่องวานิช</br> 18:00 - 21:00 น.
+      <div class="desc">โดย ศ.ดร.สุวิมล ว่องวาณิช</br> 18:00 - 21:00 น.
       </div>
     </div>
   </li>
