@@ -17,7 +17,7 @@ title: การฝึกอบรม
 
 <a href="https://drive.google.com/drive/folders/1rGoGrT64tsiX1BUV3hqtU3aCkK1i6Wtr">3. ลิงค์สำหรับส่งงาน/การบ้านในแต่ละสัปดาห์</a>
 
-<a href="https://kruroo.com/course/28">4. ลิงค์เข้าสู่ระบบ KruRoo</a>
+<a href="https://kruroo.com/course/29/curriculum">4. ลิงค์เข้าสู่ระบบ KruRoo</a>
 
 
 {{< auth >}}
