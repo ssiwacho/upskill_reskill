@@ -272,7 +272,7 @@ hr {
   <div class="session session-4 track-3" style="grid-column: track-1-start / track-4-end; grid-row: time-1055 / time-1100;">
     <h3 class="session-title"><a href="#">ตอบข้อซักถามเกี่ยวกับหลักสูตร</a></h3>
     <span class="session-time">10:50-10:55</span>
-    <span class="session-track">โดย ศาสตราจารย์ ดร.สุวิมล ว่องวานิช</span>
+    <span class="session-track">โดย ศาสตราจารย์ ดร.สุวิมล ว่องวาณิช</span>
 
   </div>
 
