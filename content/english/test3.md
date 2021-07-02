@@ -637,7 +637,7 @@ header h1{
         <span class="time-wrapper"><span class="time">8 ต.ค. 64</span></span>
       </div>
    <div class="direction-r">
-      <div class="desc">โดย ศ.ดร.สุวิมล ว่องวาณิช</br> 18:00 - 21:00 น.
+      <div class="desc">โดย อ.ดร.สิวะโชติ ศรีสุทธิยากร</br> 18:00 - 21:00 น.
       </div>
     </div>
   </li>
