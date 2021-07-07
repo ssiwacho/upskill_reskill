@@ -390,7 +390,7 @@ header h1{
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag">กระบวนการโค้ชชิ่ง</span>
-        <span class="time-wrapper"><span class="time">23 ก.ค. 64</span></span>
+        <span class="time-wrapper"><span class="time">16 ก.ค. 64</span></span>
       </div>
     <div class="direction-r">
       <div class="desc">โดย ดร.พงศ์ปณต พัสระ</br> 18:00 - 21:00 น.
