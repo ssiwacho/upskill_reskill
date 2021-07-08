@@ -3,6 +3,10 @@ bg_image: images/shutterstock_1090844168.png
 description: 
 draft: false
 layout: post
+menu:
+  main:
+    name: "กำหนดการฝึกอบรม"
+    weight: 4
 title: กำหนดการฝึกอบรม
 ---
 
@@ -676,5 +680,5 @@ header h1{
     </div>
   </li>
   
-{{< auth >}}
 
+{{< auth >}}

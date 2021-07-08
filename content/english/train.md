@@ -3,16 +3,12 @@ bg_image: images/shutterstock_1090844168.png
 description: 
 draft: false
 layout: post
-menu:
-  main:
-    name: "การฝึกอบรม"
-    weight: 3
 title: การฝึกอบรม
 ---
 
 
 
-<a href="/name">1. รายชื่อ/รหัสผู้เข้าอบรม</a>
+<a href="/table">1. รายชื่อ/รหัสผู้เข้าอบรม</a>
 
 <a href="/test3">2. กำหนดการฝึกอบรม</a>
 
@@ -22,4 +18,3 @@ title: การฝึกอบรม
 
 
 
-{{< auth >}}
