@@ -96,20 +96,20 @@ tbody tr:hover {
   <tbody>
     <tr>
       <td align="center">1
-      <td>การคิดออกแบบ (Design Thinking)
-      <td align="center">9
+      <td>การโค้ชชิ่ง (Coaching)
+      <td align="center">6
     <tr>
       <td align="center">2
-      <td>การโค้ชชิ่ง (Coaching)
+      <td>การคิดออกแบบ (Design Thinking)
       <td align="center">9
     <tr>
       <td align="center">3
       <td>ผลลัพธ์ที่พึงประสงค์ของการศึกษาและการออกแบบชั้นเรียนนวัตกรรม (Desirable Outcomes of Education and Innovative Classroom Designing) 
-      <td align="center">9
+      <td align="center">18
     <tr>
       <td align="center">4
       <td>การประเมินและการให้ข้อมูลป้อนกลับเชิงบวก (Evaluation and Positive Feedback) 
-      <td align="center">9
+      <td align="center">3
     <tr>
       <td align="center">5
       <td>การออกแบบชั้นเรียนนวัตกรรมโดยใช้การคิดออกแบบ (Innovative Classroom Design Using Design Thinking)   
