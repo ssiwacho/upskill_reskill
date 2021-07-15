@@ -397,7 +397,7 @@ header h1{
         <span class="time-wrapper"><span class="time">16 ก.ค. 64</span></span>
       </div>
     <div class="direction-r">
-      <div class="desc">โดย ดร.พงศ์ปณต พัสระ</br> 18:00 - 21:00 น.
+      <div class="desc">โดย ดร.พงศ์ปณต พัสระ</br> 18:00 - 21:00 น.</br>
       <a href="https://chula.zoom.us/j/4546000348"><btn-main class="btn-main button1">เข้าสู่ห้องเรียน</button></a>
       </div>
     </div>
