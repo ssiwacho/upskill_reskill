@@ -6,7 +6,7 @@ categories:
 date: "2021-06-14T11:07:10+06:00"
 description: 
 draft: true
-image: images/blog/blog-post-2.jpg
+image: images/blog/DT.png
 tags:
 - DesignThinking
 title: มโนทัศน์ของการคิดออกแบบ
@@ -44,4 +44,5 @@ type: post
 
 
 3. การคิดออกแบบเป็นกระบวนการทำงาน ส่วนใหญ่จะยึด 5 ขั้น ของ d.school ได้แก่ ขั้นการเข้าใจอารมณ์ความรู้สึก ขั้นการกำหนดปัญหา ขั้นการสร้างความคิด ขั้นการสร้างต้นแบบ และขั้นการทดสอบ ลักษณะนี้ถือว่าเป็นกระบวนการการคิดออกแบบ (design thinking process) 
+
 

@@ -6,7 +6,7 @@ categories:
 date: "2021-06-14T11:07:10+06:00"
 description: 
 draft: false
-image: images/blog/blog-post-2.jpg
+image: images/blog/blog-post-5.jpg
 tags:
 - Innovative Classroom
 title: มโนทัศน์ของการออกแบบชั้นเรียนนวัตกรรม
