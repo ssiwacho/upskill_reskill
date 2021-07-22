@@ -5,7 +5,7 @@ categories:
 - DesignThinking
 date: "2021-07-22T16:07:10+06:00"
 description: 
-draft: true
+draft: false
 image: images/blog/DT2.jpg
 tags:
 - DesignThinking
