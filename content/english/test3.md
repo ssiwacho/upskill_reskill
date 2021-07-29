@@ -462,9 +462,7 @@ header h1{
       </div>
     <div class="direction-r">
       <div class="desc">- Designing Thinking: Prototype </br>
-                        - Designing Thinking: Test </br>
-                        - แนวคิดและหลักการประเมิน </br>
-                        - การเรียนรู้ (AOL, AFL, AAL) </br></br>
+                        - Designing Thinking: Test </br></br>
 โดย รศ.ดร.ศจีมาจ ณ วิเชียร และคณะ</br> 18:00 - 21:00 น.
       </div>
     </div>
@@ -542,8 +540,7 @@ header h1{
       </div>
     <div class="direction-r">
       <div class="desc">
-โดย ผศ.ดร.กนิษฐ์ ศรีเคลือบ และ </br>
-                      อ.ดร.สิวะโชติ ศรีสุทธิยากร </br>18:00 - 21:00 น.
+โดย อ.ดร.ชุติวัฒน์ สุวัตถิพงศ์ </br>18:00 - 21:00 น.
       </div>
     </div>
   </li>
@@ -602,7 +599,7 @@ header h1{
       </div>
    <div class="direction-r">
       <div class="desc">
-     <p align="right"> โดย ผศ.ดร.กนิษฐ์ ศรีเคลือบ และ </br>
+     <p align="right"> โดย ผศ.ดร.สร้อยสน สกลรักษ์ </br>ผศ.ดร.กนิษฐ์ ศรีเคลือบ และ </br>
                       อ.ดร.สิวะโชติ ศรีสุทธิยากร </br>18:00 - 21:00 น.</p>
       </div>
     </div>
@@ -643,7 +640,7 @@ header h1{
         <span class="time-wrapper"><span class="time">8 ต.ค. 64</span></span>
       </div>
    <div class="direction-r">
-      <div class="desc">โดย อ.ดร.สิวะโชติ ศรีสุทธิยากร</br> 18:00 - 21:00 น.
+      <div class="desc">โดย ผศ.ดร.ปภัสสรา ชัยวงศ์</br> 18:00 - 21:00 น.
       </div>
     </div>
   </li>
