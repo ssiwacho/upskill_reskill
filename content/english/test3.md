@@ -552,7 +552,7 @@ header h1{
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag">Classroom Discourse กับการส่งเสริมชั้นเรียนนวัตกรรม</span>
-        <span class="time-wrapper"><span class="time">3 ก.ย. 64</span></span>
+        <span class="time-wrapper"><span class="time">10 ก.ย. 64</span></span>
       </div>
     <div class="direction-r">
       <div class="desc">
