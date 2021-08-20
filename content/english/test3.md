@@ -488,7 +488,6 @@ header h1{
      <div class="direction-l">
       <div class="desc">โดย อ.ธงชัย โรจน์กังสดาล</br> 18:00 - 21:00 น.
       </div>
-      <a href="https://chula.zoom.us/j/4546000348"><btn-main class="btn-main button1">เข้าสู่ห้องเรียน</button></a>
     </div>
   </li>
     
@@ -504,6 +503,7 @@ header h1{
     <div class="direction-r">
      <div class="direction-r">
       <div class="desc">โดย ผศ.ดร.ชาริณี ตรีวรัญญู</br> 18:00 - 21:00 น.
+            <a href="https://chula.zoom.us/j/4546000348"><btn-main class="btn-main button1">เข้าสู่ห้องเรียน</button></a>
       </div>
     </div>
   </li>
