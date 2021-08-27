@@ -503,7 +503,6 @@ header h1{
     <div class="direction-r">
      <div class="direction-r">
       <div class="desc">โดย ผศ.ดร.ชาริณี ตรีวรัญญู</br> 18:00 - 21:00 น.
-            <a href="https://chula.zoom.us/j/4546000348"><btn-main class="btn-main button1">เข้าสู่ห้องเรียน</button></a>
       </div>
     </div>
   </li>
@@ -524,6 +523,8 @@ header h1{
      - UDL: Universal Design for Learning 
  </br>
       <p align="right"> โดย อ.ดร.วาทินี อมรไพศาลเลิศ</br>18:00 - 21:00 น.</p>
+      </br>
+      <a href="https://chula.zoom.us/j/4546000348"><btn-main class="btn-main button1">เข้าสู่ห้องเรียน</button></a>
       </div>
     </div>
   </li>
