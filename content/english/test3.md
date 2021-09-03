@@ -595,13 +595,11 @@ header h1{
    <div class="direction-l">
       <div class="flag-wrapper">
         <span class="hexa"></span>
-        <span class="flag">Assessment tools in innovative classroom</span>
+        <span class="flag">การใช้ medium, lean canvas, การสร้าง prototype อย่างง่าย, การสร้าง apps โดยไม่ต้องเขียน code </span>
         <span class="time-wrapper"><span class="time">24 ก.ย. 64</span></span>
       </div>
    <div class="direction-r">
-      <div class="desc">
-     <p align="right"> โดย ผศ.ดร.สร้อยสน สกลรักษ์ </br>ผศ.ดร.กนิษฐ์ ศรีเคลือบ และ </br>
-                      อ.ดร.สิวะโชติ ศรีสุทธิยากร </br>18:00 - 21:00 น.</p>
+          <div class="desc">โดย อ.ธงชัย โรจน์กังสดาล</br> 18:00 - 21:00 น.
       </div>
     </div>
   </li>
