@@ -558,7 +558,6 @@ header h1{
       <div class="desc">
      <p align="right">อ.ดร.ชยุตม์ ภิรมย์สมบัติ</br>18:00 - 21:00 น.</p>
       </div>
-      <a href="https://chula.zoom.us/j/4546000348"><btn-main class="btn-main button1">เข้าสู่ห้องเรียน</button></a>
     </div>
   </li>
 
@@ -574,7 +573,8 @@ header h1{
       </div>
     <div class="direction-r">
       <div class="desc">
-ผศ.ดร.กิตติคุณ วิวัฒน์ภิญโญ</br>18:00 - 21:00 น.
+ผศ.ดร.กิตติคุณ วิวัฒน์ภิญโญ</br>18:00 - 21:00 น.</br>
+      <a href="https://chula.zoom.us/j/4546000348"><btn-main class="btn-main button1">เข้าสู่ห้องเรียน</button></a>
       </div>
     </div>
   </li>
