@@ -574,7 +574,6 @@ header h1{
     <div class="direction-r">
       <div class="desc">
 ผศ.ดร.กิตติคุณ วิวัฒน์ภิญโญ</br>18:00 - 21:00 น.</br>
-      <a href="https://chula.zoom.us/j/4546000348"><btn-main class="btn-main button1">เข้าสู่ห้องเรียน</button></a>
       </div>
     </div>
   </li>
@@ -586,6 +585,7 @@ header h1{
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag">โมดูล 4 : การประเมินและการให้ข้อมูลป้อนกลับเชิงบวก </span>
+        <a href="https://chula.zoom.us/j/4546000348"><btn-main class="btn-main button1">เข้าสู่ห้องเรียน</button></a>
       </div>
   </li>
   
