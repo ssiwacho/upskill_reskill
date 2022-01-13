@@ -62,13 +62,17 @@ tbody tr:hover {
 
 
 
+## เข้าเรียนหลักสูตร DCI แล้วเป็นอย่างไรบ้าง?
 
+{{< youtube xNzVarNQIUU >}}
 
+</br>
 
+{{< youtube mQ2gaVKZMjA >}}
 
+</br>
 
-
-
+{{< youtube Mpk0jvt9fxU >}}
 
 ## กิจกรรมการฝึกอบรม
 
