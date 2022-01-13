@@ -1,5 +1,5 @@
 ---
-title: "ปฐมนิเทศ"
+title: "ปฐมนิเทศ รุ่นที่ 1"
 description: "2 กรกฎาคม 2564"
 draft: false
 image : "images/portfolio/firstmeet.png"
