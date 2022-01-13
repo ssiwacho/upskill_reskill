@@ -6,6 +6,7 @@ layout: post
 menu:
   main:
     name: "กำหนดการฝึกอบรม"
+    parent: More
     weight: 4
 title: กำหนดการฝึกอบรม
 ---

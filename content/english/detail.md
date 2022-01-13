@@ -6,7 +6,6 @@ layout: post
 menu:
   main:
     name: "หลักสูตร"
-    parent: More
     weight: 2
 title: หลักสูตร
 ---

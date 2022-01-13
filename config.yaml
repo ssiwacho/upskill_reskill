@@ -95,18 +95,18 @@ languages:
           weight: 2
         - URL: project
           name: ประชาสัมพันธ์
-          weight: 3
+          weight: 5
         - URL: test3
           name: กำหนดการฝึกอบรม
-          weight: 4
+          weight: 6
         - URL: blog
           name: แหล่งความรู้เผยแพร่
           weight: 5
         - URL: contact
           name: ติดต่อเรา
-          weight: 
+          weight: 6
       main:
         - hasChildren: no
           name: More
-          weight: 5
+          weight: 7
     weight: 1

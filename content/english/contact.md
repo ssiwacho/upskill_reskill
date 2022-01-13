@@ -6,7 +6,6 @@ layout: contact
 menu:
   main:
     name: ติดต่อเรา
-    parent: More
     weight: 3
 title: ติดต่อเรา
 ---
