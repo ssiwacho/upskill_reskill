@@ -19,7 +19,7 @@ banner:
   title: Design Thinking, Coaching, Innovative Classroom Designing
 
 funfacts:
-  description: หลักสูตรนี้เป็นหลักสูตรฝึกอบรมแบบ on-the-job-training เทียบเท่า 9 หน่วยกิต </br> แบ่งเป็นโมดูลภาคทฤษฎีและภาคปฏิบัติ จำนวน 6 โมดูล
+  description: ผู้สำเร็จจากหลักสูตร จะได้รับประกาศนียบัตรจากจุฬาลงกรณ์มหาวิทยาลัย <br> ซึ่งในอนาคตสามารถนำไปเทียบโอนรายวิชาที่เกี่ยวข้องของหลักสูตรบัณฑิตศึกษาของคณะครุศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย
 
   enable: true
   funfact_item:
