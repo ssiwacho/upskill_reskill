@@ -60,6 +60,8 @@ tbody tr:hover {
 </style>
 
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdVNA56AeqwoxVfdyA27QLnUr8IP3kHQy__7l-DcIc67MUsvQ/viewform"><btn-main class="btn-main button1">สมัครเข้าร่วมโครงการ</button></a>
+
 
 
 ## เข้าเรียนหลักสูตร DCI แล้วเป็นอย่างไรบ้าง?
@@ -73,6 +75,13 @@ tbody tr:hover {
 </br>
 
 {{< youtube Mpk0jvt9fxU >}}
+
+</br>
+</br>
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdVNA56AeqwoxVfdyA27QLnUr8IP3kHQy__7l-DcIc67MUsvQ/viewform"><btn-main class="btn-main button1">สมัครเข้าร่วมโครงการ</button></a>
+
 
 ## กิจกรรมการฝึกอบรม
 
